@@ -1,0 +1,18 @@
+1. Admin -- Login
+
+         --- View users and authorize
+
+2. Users --- Register with (Facebook,Twitter,linkedin) and Login with (Facebook,Twitter,linkedin)
+         
+         --- View your Profile
+    
+         --- Search Friends
+       
+         --- View Friend Request and Response
+
+         --- View My Friends
+
+
+3. Social Networks
+   
+           Login by username and password and select type of social network(Facebook,Twitter,linkedin)

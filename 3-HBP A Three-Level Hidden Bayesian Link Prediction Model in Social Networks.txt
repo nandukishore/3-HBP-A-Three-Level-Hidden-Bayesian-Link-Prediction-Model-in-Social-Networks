@@ -1,0 +1,49 @@
+Admin
+
+1.	View number of users registered in each social network. 
+2.	View all following behavior (View Friend Req and Res for each site).
+3.	View all interaction behavior from each other users based on post’s review
+4.	View common Neighbors for each users
+5.	View each user activity in the social network
+6.	Find char results to count number of users in the same site
+
+
+
+Social Networks
+
+Login by username and password and select type of social network(Facebook,Twitter,linkedin)
+1. List all users and authorize.																																				
+2  List all Friends Req and Res.				
+3.View all common Neighbors for each user in this network
+4. View all user posts with reviews, ratings, Ranking
+5. View Users interaction on posts		
+6. View all post rank in chart
+
+User
+
+1. Register with (Facebook,Twitter,linkedin) and Login with (Facebook,Twitter,linkedin
+2. View your profile
+3. Search Friends and Send req to make friend with similar sites
+4. View Friend Request and Response
+5. View common Neighboursb(Friends)
+6. Create Post and Upload
+7.View all your friends post and make review.
+8. View all your posts with  reviews, ratings, Ranking
+
+
+
+Sites:  1. Face book    2. Tweeter    3 LinkedIn    
+
+
+Members
+Post  Details: 
+Post Category,
+Post name,
+post desc,
+puses,
+attach pimage.
+post date and time,
+Post owner name,
+post review
+post rank
+
